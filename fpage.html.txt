@@ -1,0 +1,7 @@
+<html>
+<head></head><body>
+<br><br/>
+
+<img src="img.jpg">
+
+</html>
